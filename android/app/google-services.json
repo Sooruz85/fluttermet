@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "77334349707",
+    "project_id": "fluttermet2023-93007",
+    "storage_bucket": "fluttermet2023-93007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77334349707:android:46ac714082b83fd425518e",
+        "android_client_info": {
+          "package_name": "com.mycompany.flutmet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8R3_pGT_QOA9rZ49lrBPBE5RpDCa9ZAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
